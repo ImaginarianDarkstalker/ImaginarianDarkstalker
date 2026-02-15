@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ImaginarianDarkstalker
+- 👋 Hi, I’m Alvin Kenneth Mayega aka @ImaginarianDarkstalker
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 📫 How to reach me: Use my email!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Dogs love their owners more than food and other dogs
 
 <!---
 ImaginarianDarkstalker/ImaginarianDarkstalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
